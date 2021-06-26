@@ -117,6 +117,13 @@ img {
 
 .nav__logo {
   color: var(--white-color);
+  font-size: 25px;
+}
+.nav__logo strong{
+  color: #125D98;
+  font-weight: 900;
+  font-size: 30px;
+  
 }
 
 .nav__item {
